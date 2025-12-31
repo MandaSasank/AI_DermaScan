@@ -150,6 +150,6 @@ It integrates preprocessing, model training, face detection, and web deployment 
 
 👨‍💻 Developed By
 
-Sasank Manda
+Manda Sasank
 B.Tech – Computer Science & Engineering
 Infosys Springboard Internship
